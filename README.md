@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/c4a36e4d785abf0d18994460af182ce55df8155200dfe51bb0c9ea3b00cf194c/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)
 <h1 align="center">Hi 👋, I'm syed mutaib ali</h1>
-<h3 align="center">A passionate Data Analyst from the USA, currently pursuing a Master’s degree at Arizona State University</h3>
+<h3 align="center">A passionate Software Engineer from the USA, currently pursuing a Master’s degree at Arizona State University</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mutaibali&label=Profile%20views&color=0e75b6&style=flat" alt="mutaibali" /> </p>
@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **AWZ**
 
-- 💬 Ask me about **SQL, Tableau**
 
 - 📫 How to reach me **syedmutaib0599@gmail.com**
 
